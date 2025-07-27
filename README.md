@@ -68,7 +68,3 @@ By exploring or presenting this project, you’ll learn:
 
 ---
 
-## 📬 Contact
-
-Made with ❤️ by [Naveen Kumar]  
-💼Connect:[LinkedIn](www.linkedin.com/in/naveen-kumar-576693289) 
